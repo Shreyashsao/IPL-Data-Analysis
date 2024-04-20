@@ -14,7 +14,8 @@ Given below is the link of the official IPL website in which web scrapping needs
 
 URL= https://www.iplt20.com/matches/results/2008
 
-Website screenshot
+Website Sample screenshot
+![Screenshot of IPL official webpage](https://github.com/Shreyashsao/Web-Scrapping/blob/main/ipl%20sample%20image.png)
 
 
 
